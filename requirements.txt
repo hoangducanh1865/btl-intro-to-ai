@@ -1,0 +1,6 @@
+streamlit
+osmnx
+networkx
+geopy
+folium
+streamlit_folium
